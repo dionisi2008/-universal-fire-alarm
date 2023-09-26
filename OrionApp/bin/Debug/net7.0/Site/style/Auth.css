@@ -1,0 +1,57 @@
+body
+{
+    background-color: rgb(247, 247, 255);
+}
+
+
+#BaseForm
+{
+    position: absolute;    
+    height: 250px;
+    top: calc(100% / 2 - 200px);
+    left: calc(100% / 2 - 150px);
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgb(169, 169, 255);
+}
+
+#BaseForm>label
+{
+    position: absolute;
+    padding: 40px;
+    font-size: 18px;
+}
+#BaseForm>input
+{
+    position: absolute;
+    height: 25px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(169, 169, 255);
+    text-align: center;
+    left: calc(100% / 2 - 100px);
+}
+#BaseForm>input#Login
+{
+    top: 80px;
+}
+
+#BaseForm>input#Password
+{
+    top: 120px;
+}
+
+#BaseForm>button
+{
+    position: absolute;
+    height: 25px;
+    
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(169, 169, 255);
+    text-align: center;
+    left: calc(100% / 2 - 100px);
+    top: 160px;
+}
