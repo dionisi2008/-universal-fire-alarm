@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/app/OrionApp"
+		},
+		{
+			"path": "../../../Desktop/app/.vscode"
+		}
+	],
+	"settings": {}
+}
