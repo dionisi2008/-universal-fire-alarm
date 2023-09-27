@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Denis\\Desktop\\app\\OrionApp\\OrionApp.csproj",
+      "projectUniqueName": "c:\\Users\\Denis\\Documents\\GitHub\\-universal-fire-alarm\\OrionApp\\OrionApp.csproj",
       "projectName": "OrionApp",
-      "projectPath": "c:\\Users\\Denis\\Desktop\\app\\OrionApp\\OrionApp.csproj",
+      "projectPath": "c:\\Users\\Denis\\Documents\\GitHub\\-universal-fire-alarm\\OrionApp\\OrionApp.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Denis\\Desktop\\app\\OrionApp\\obj\\",
+      "outputPath": "c:\\Users\\Denis\\Documents\\GitHub\\-universal-fire-alarm\\OrionApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config"

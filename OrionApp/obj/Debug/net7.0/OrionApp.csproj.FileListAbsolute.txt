@@ -12,3 +12,17 @@ c:\Users\Denis\Desktop\app\OrionApp\obj\Debug\net7.0\refint\OrionApp.dll
 c:\Users\Denis\Desktop\app\OrionApp\obj\Debug\net7.0\OrionApp.pdb
 c:\Users\Denis\Desktop\app\OrionApp\obj\Debug\net7.0\OrionApp.genruntimeconfig.cache
 c:\Users\Denis\Desktop\app\OrionApp\obj\Debug\net7.0\ref\OrionApp.dll
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\bin\Debug\net7.0\OrionApp.exe
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\bin\Debug\net7.0\OrionApp.deps.json
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\bin\Debug\net7.0\OrionApp.runtimeconfig.json
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\bin\Debug\net7.0\OrionApp.dll
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\bin\Debug\net7.0\OrionApp.pdb
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\obj\Debug\net7.0\OrionApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\obj\Debug\net7.0\OrionApp.AssemblyInfoInputs.cache
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\obj\Debug\net7.0\OrionApp.AssemblyInfo.cs
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\obj\Debug\net7.0\OrionApp.csproj.CoreCompileInputs.cache
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\obj\Debug\net7.0\OrionApp.dll
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\obj\Debug\net7.0\refint\OrionApp.dll
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\obj\Debug\net7.0\OrionApp.pdb
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\obj\Debug\net7.0\OrionApp.genruntimeconfig.cache
+c:\Users\Denis\Documents\GitHub\-universal-fire-alarm\OrionApp\obj\Debug\net7.0\ref\OrionApp.dll
